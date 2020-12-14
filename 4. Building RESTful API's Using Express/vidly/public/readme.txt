@@ -1,0 +1,1 @@
+this is readme file to show examle of express static middleware 
